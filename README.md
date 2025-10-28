@@ -1,6 +1,5 @@
 <html>
 	<head>
-		<title><center>Expire</center></title>
 	</head>
 	<body>
 		<div><center>
